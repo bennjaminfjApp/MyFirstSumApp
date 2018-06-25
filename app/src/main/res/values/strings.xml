@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My First Sum App</string>
+
+    <string-array name="items">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Peach</item>
+    </string-array>
+
+    <string-array name="price">
+        <item>$0.99</item>
+        <item>$1.18</item>
+        <item>$0.87</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>fresh apples fron Israel</item>
+        <item>fresh banana from Kongo</item>
+        <item>fresh peach from India</item>
+    </string-array>
+
+</resources>
