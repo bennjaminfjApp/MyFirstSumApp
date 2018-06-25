@@ -24,8 +24,7 @@ public class detailActivity extends AppCompatActivity {
 
 
 
-
-
+    private String r ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
